@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "884947060800",
+    "firebase_url": "https://dragossimplenfctool.firebaseio.com",
+    "project_id": "dragossimplenfctool",
+    "storage_bucket": "dragossimplenfctool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884947060800:android:b44d61be6d86e299",
+        "android_client_info": {
+          "package_name": "com.example.nfctool.dragossimplenfctool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884947060800-1ja5arn22qmkgf46889lfu33dvjv5tj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nfctool.dragossimplenfctool",
+            "certificate_hash": "66a7f638c573d88ccac83d701047aff6c1db4d5b"
+          }
+        },
+        {
+          "client_id": "884947060800-2pf0mo2r9f0brv9jon9piiv8higd5jn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLA7Zwgx6b-YoHhG9XoV6dbajSaKApiwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884947060800-2pf0mo2r9f0brv9jon9piiv8higd5jn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
